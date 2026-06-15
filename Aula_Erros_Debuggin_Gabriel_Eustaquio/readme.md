@@ -1,5 +1,8 @@
 # Tratamento de Erros e Avaliação de Soluções
 Aluno: Gabriel Eustáquio Ribeiro da Silva - 42957613
+Aluno: Arthur de Carvalho Alves - 42365082
+Aluno: Arthur Pereira Vale - 42875366
+
 ## Objetivo da Atividade
 Aplicar técnicas de tratamento de erros, depuração e avaliação de soluções diretamente no projeto desenvolvido pela equipe.
 
